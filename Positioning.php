@@ -12,12 +12,13 @@
 <body>
   <nav class="white" role="navigation">
     <div class="nav-wrapper container">
-      <ul class="right hide-on-med-and-down">
-        <li><a href="index.php">Home</a></li>
-        <li><a href="overview.html">Overview</a></li>
-        <li><a href="developers.html">Developers</a></li>
-        <li><a href="addons.html">Addons</a></li>
-      </ul>
+    	  <ul class="right hide-on-med-and-down">
+	        <li><a href="index.php">Home</a></li>
+	        <li><a href="overview.html">Key Features</a></li>
+	        <li><a href="developers.html">Positioning</a></li>
+	        <li><a href="addons.html">Service</a></li>
+	        <li><a href="addons.html">Developer Guides</a></li>
+	      </ul>
       <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">Menu</i></a>
     </div>
   </nav>
@@ -26,7 +27,7 @@
     <div class="section no-pad-bot">
       <div class="container">
         <br><br>
-        <h1 class="header center white-text">Lilly Devs</h1>
+        <h1 class="header center white-text">OpenShift</h1>
         <div class="row center">
           <h5 class="header col s12 light">On Prem PaaS by GICOE</h5>
         </div>
@@ -36,9 +37,8 @@
         <br><br>
       </div>
     </div>
-    <div class="parallax"><img src="background2.jpg" alt="Unsplashed background img 1"></div>
+    <div class="parallax"><img src="background3.jpg" alt="Unsplashed background img 1"></div>
   </div>
-
 
 
   </body>
@@ -57,7 +57,7 @@
        // $TeamNumber = pg_escape_string($_POST['TeamNumber']);
 
       //  $query = "INSERT INTO random (Something) VALUES('" . $Something. "')";
-  //  $result = pg_query($query); 
+ 	//	$result = pg_query($query); 
       //  if (!$result) { 
           //  $errormessage = pg_last_error(); 
          //   echo "Nothing here yet but soon im gonna display all the data from your populated PSQL database " . $errormessage; 

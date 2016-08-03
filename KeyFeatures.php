@@ -12,12 +12,13 @@
 <body>
   <nav class="white" role="navigation">
     <div class="nav-wrapper container">
-      <ul class="right hide-on-med-and-down">
-        <li><a href="index.php">Home</a></li>
-        <li><a href="overview.html">Overview</a></li>
-        <li><a href="developers.html">Developers</a></li>
-        <li><a href="addons.html">Addons</a></li>
-      </ul>
+    	  <ul class="right hide-on-med-and-down">
+	        <li><a href="index.php">Home</a></li>
+	        <li><a href="overview.html">Key Features</a></li>
+	        <li><a href="developers.html">Positioning</a></li>
+	        <li><a href="addons.html">Service</a></li>
+	        <li><a href="addons.html">Developer Guides</a></li>
+	      </ul>
       <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">Menu</i></a>
     </div>
   </nav>
