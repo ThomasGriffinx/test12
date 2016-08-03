@@ -50,7 +50,7 @@
           <div class="icon-block">
             <h2 class="center brown-text"><i class="material-icons">flash_on</i></h2>
             <h5 class="center">PaaS</h5>
-            <p class="light">Deploy your applications from Github in Seconds</p>
+            <p class="light">Deploy your applications from Github in seconds.  Get started on the public cloud with a free dev account, or jump straight into to our on prem PaaS environmnet</p>
           </div>
         </div>
      
@@ -112,7 +112,6 @@ OpenShift provides a modern container based hosting solution; allowing developer
   <?php
 # This function reads your DATABASE_URL configuration automatically set by Heroku
 # the return value is a string that will work with pg_connect
- // $db = pg_connect('dbname=d81a53c7aurso7 host=ec2-54-228-219-2.eu-west-1.compute.amazonaws.com port=5432 user=qgljwvgpvqdmos password=4WgnfX2SVmyfod0LzIrLzQMh9C sslmode=require');
 
         //$Something = pg_escape_string($_POST['Something']);
        
