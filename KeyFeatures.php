@@ -10,36 +10,18 @@
   <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 </head>
 <body>
-  <nav class="white" role="navigation">
+ <nav class="white" role="navigation">
     <div class="nav-wrapper container">
-    	  <ul class="right hide-on-med-and-down">
-	        <li><a href="index.php">Home</a></li>
-	        <li><a href="overview.html">Key Features</a></li>
-	        <li><a href="developers.html">Positioning</a></li>
-	        <li><a href="addons.html">Service</a></li>
-	        <li><a href="addons.html">Developer Guides</a></li>
-	      </ul>
+      <ul class="right hide-on-med-and-down">
+        <li><a href="index.php">Home</a></li>
+        <li><a href="KeyFeatures.php">Key Features</a></li>
+        <li><a href="Positioning.php">Positioning</a></li>
+        <li><a href="service.php">Service</a></li>
+        <li><a href="DeveloperGuides.php">Developer Guides</a></li>
+      </ul>
       <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">Menu</i></a>
     </div>
   </nav>
-
-
-<div id="index-banner" class="parallax-container">
-    <div class="section no-pad-bot">
-      <div class="container">
-        <br><br>
-        <h1 class="header center white-text">Addons</h1>
-        <div class="row center">
-          <h5 class="header col s12 light">On Prem PaaS by GICOE</h5>
-        </div>
-        <div class="row center">
-          <a href="https://developers.openshift.com/index.html" id="download-button" class="btn-large waves-effect waves-light red lighten-1">Get Started</a>
-        </div>
-        <br><br>
-      </div>
-    </div>
-    <div class="parallax"><img src="background1.jpg" alt="Unsplashed background img 1"></div>
-  </div>
 
 
 
