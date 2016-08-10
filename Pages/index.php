@@ -94,7 +94,7 @@
         <br><br>
       </div>
     </div>
-    <div class="parallax"><img src="background2.jpg" alt="Unsplashed background img 1"></div>
+    <div class="parallax"><img src="Images/background2.jpg" alt="Unsplashed background img 1"></div>
   </div>
 
 <br> </br>
