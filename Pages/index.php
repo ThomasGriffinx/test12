@@ -10,15 +10,15 @@
   <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 </head>
 <body>
- <nav class="white" role="navigation">
+  <nav class="white" role="navigation">
     <div class="nav-wrapper container">
       <ul class="right hide-on-med-and-down">
-        <li><a href="openshift.html">Home</a></li>
-        <li><a href="KeyFeatures.html">Key Features</a></li>
-        <li><a href="Positioning.html">Positioning</a></li>
-        <li><a href="service.html">Service</a></li>
-        <li><a href="DeveloperGuides.html">Developer Guides</a></li>
-        <li><a href="Team.html">The Team</a></li>
+        <li><a href="Pages/index.php">Home</a></li>
+        <li><a href="Pages/KeyFeatures.html">Key Features</a></li>
+        <li><a href="Pages/Positioning.html">Positioning</a></li>
+        <li><a href="Pages/service.html">Service</a></li>
+        <li><a href="Pages/DeveloperGuides.html">Developer Guides</a></li>
+        <li><a href="Pages/Team.html">The Team</a></li>
       </ul>
       <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">Menu</i></a>
     </div>
@@ -38,7 +38,7 @@
         <br><br>
       </div>
     </div>
-    <div class="parallax"><img src="background3.jpg" alt="Unsplashed background img 1"></div>
+    <div class="parallax"><img src="Images/background3.jpg" alt="Unsplashed background img 1"></div>
   </div>
 
 
